@@ -1,5 +1,9 @@
 # Useful resources
 
+## Dimensionality reduction for data visualization
+- [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
+
 ## Scientific writing
 - [How to wite clearly](https://www.sfedit.net/wp-content/uploads/2019/10/Fourteen-Steps-to-Writing-Clearly.pdf)
 - [How to write a scientific paper](https://www.sfedit.net/wp-content/uploads/2019/10/Twelve-Steps-to-Developing-an-Effective-First-Draft.pdf)
