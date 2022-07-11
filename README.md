@@ -20,3 +20,4 @@
 - [VSC training](https://vsc.ac.at/research/vsc-research-center/vsc-school-seminar/)
 - [CSAMA](https://www.huber.embl.de/csama2020/)
 - [Paper: A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662)
+- [Why and how should you start learning bioinformatics?](https://network.febs.org/posts/why-and-how-should-you-start-learning-bioinformatics?s=03)
