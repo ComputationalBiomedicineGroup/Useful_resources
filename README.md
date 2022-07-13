@@ -1,6 +1,8 @@
 # Useful resources
 
 ## Bioinformatics 
+- [R programming course](https://github.com/FFinotello/Rcourse)
+- [R programming book](https://discdown.org/rprogramming/)
 - [VSC training](https://vsc.ac.at/research/vsc-research-center/vsc-school-seminar/)
 - [CSAMA](https://www.huber.embl.de/csama2020/)
 - [Paper: A New Online Computational Biology Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003662)
