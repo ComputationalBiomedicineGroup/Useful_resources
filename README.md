@@ -1,6 +1,6 @@
 # Bioinformatics 
 
-# Materials
+## Materials
 - [R programming course](https://github.com/FFinotello/Rcourse)
 - [R programming book](https://discdown.org/rprogramming/)
 
