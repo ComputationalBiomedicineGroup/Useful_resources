@@ -42,6 +42,7 @@
 ## Papers and theses
 
 - [How to write a scientific paper](https://www.sfedit.net/wp-content/uploads/2019/10/Twelve-Steps-to-Developing-an-Effective-First-Draft.pdf)
+- [How to write a Review](https://www.nature.com/articles/d41586-020-03422-x)
 - [Nature: how to write an abstract](https://github.com/ComputationalBiomedicineGroup/Useful_resources/blob/main/nature-summary-paragraph.pdf)
 - [Elements of style](https://www.nature.com/articles/nphys724)
 - [Grammar Check Tool](https://www.aje.com/grammar-check/?utm_source=Website&utm_medium=Nature&utm_campaign=SNAS+Referrals+2022+GC&utm_id=Grammar+Check)
