@@ -22,7 +22,7 @@
 - [Why and how should you start learning bioinformatics?](https://network.febs.org/posts/why-and-how-should-you-start-learning-bioinformatics?s=03)
 
 
-## Data visualization
+# Data visualization
 
 ## Dimensionality reduction for data visualization
 - [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
