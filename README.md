@@ -43,6 +43,7 @@
 
 - [How to write a scientific paper](https://www.sfedit.net/wp-content/uploads/2019/10/Twelve-Steps-to-Developing-an-Effective-First-Draft.pdf)
 - [Nature: how to write an abstract](https://github.com/ComputationalBiomedicineGroup/Useful_resources/blob/main/nature-summary-paragraph.pdf)
+- [Elements of style](https://www.nature.com/articles/nphys724)
 - How to write:
   - [Abstract](https://www.sfedit.net/wp-content/uploads/2019/10/Ten-Steps-to-Writing-an-Effective-Abstract.pdf)
   - [Introduction](https://www.sfedit.net/wp-content/uploads/2020/09/Introduction.pdf)
