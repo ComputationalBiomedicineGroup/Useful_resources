@@ -38,6 +38,7 @@
 
 - [How to wite clearly](https://www.sfedit.net/wp-content/uploads/2019/10/Fourteen-Steps-to-Writing-Clearly.pdf)
 - [What is a paragraph?](https://writingcenter.unc.edu/tips-and-tools/paragraphs/)
+- [How to write a cientific masterpiece](https://www.jci.org/articles/view/130284)
 
 ## Papers and theses
 
