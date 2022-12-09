@@ -34,7 +34,7 @@
 ## Statistics for biologists
 - [Points of Significance @ Nature Methods](https://www.nature.com/search?q=%22Points+of+significance%22&journal=nmeth)
 
-## Scientific writing
+# Scientific writing
 
 - [How to wite clearly](https://www.sfedit.net/wp-content/uploads/2019/10/Fourteen-Steps-to-Writing-Clearly.pdf)
 - [What is a paragraph?](https://writingcenter.unc.edu/tips-and-tools/paragraphs/)
