@@ -12,6 +12,7 @@
 ## Resources and courses at UIBK
 - [Minor Digital Science](https://www.uibk.ac.at/disc/teaching/digital-science/index.html.en)
 - [Supplementary Programme Computer Science](https://www.uibk.ac.at/studium/angebot/es-informatik/index.html.en) (software engineering, machine learning, etc.)
+- [Software Management for Scientific Computing](https://lfuonline.uibk.ac.at/public/lfuonline_lv.details?sem_id_in=23W&lvnr_id_in=198702&sprache_in=en)
 - [Rstudio server](https://login.leo4.uibk.ac.at/rstudio/) (controlled access to LEO HPC needed!)
 
 ## Code debugging
@@ -39,7 +40,7 @@
 
 - [How to wite clearly](https://www.sfedit.net/wp-content/uploads/2019/10/Fourteen-Steps-to-Writing-Clearly.pdf)
 - [What is a paragraph?](https://writingcenter.unc.edu/tips-and-tools/paragraphs/)
-- [How to write a cientific masterpiece](https://www.jci.org/articles/view/130284)
+- [How to write a scientific masterpiece](https://www.jci.org/articles/view/130284)
 
 ## Papers and theses
 
