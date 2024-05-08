@@ -44,19 +44,11 @@
 
 ## Papers and theses
 
-- [How to write a scientific paper](https://www.sfedit.net/wp-content/uploads/2019/10/Twelve-Steps-to-Developing-an-Effective-First-Draft.pdf)
+- [How to write a scientific paper, thesis, poster](https://www.sfedit.net/blog/)
 - [How to write a Review](https://www.nature.com/articles/d41586-020-03422-x)
-- [Nature: how to write an abstract](https://github.com/ComputationalBiomedicineGroup/Useful_resources/blob/main/nature-summary-paragraph.pdf)
+- [How to write an abstract](https://github.com/ComputationalBiomedicineGroup/Useful_resources/blob/main/nature-summary-paragraph.pdf)
 - [Elements of style](https://www.nature.com/articles/nphys724)
 - [Grammar Check Tool](https://www.aje.com/grammar-check/?utm_source=Website&utm_medium=Nature&utm_campaign=SNAS+Referrals+2022+GC&utm_id=Grammar+Check)
-
-- How to write:
-  - [Abstract](https://www.sfedit.net/wp-content/uploads/2019/10/Ten-Steps-to-Writing-an-Effective-Abstract.pdf)
-  - [Introduction](https://www.sfedit.net/wp-content/uploads/2020/09/Introduction.pdf)
-  - [Materials and Methods](https://www.sfedit.net/wp-content/uploads/2020/12/MaterialsMethods.pdf)
-  - [Results](https://www.sfedit.net/wp-content/uploads/2021/07/Results.pdf)
-  - [Discussion](https://www.sfedit.net/wp-content/uploads/2021/04/Discussion.pdf)
-  - [Conclusion](https://www.sfedit.net/wp-content/uploads/2020/09/Conclusion.pdf)
   
   - AI apps for writing support
     - [Paraphrasing and plagiarism](https://quillbot.com/)
