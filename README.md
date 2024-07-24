@@ -8,7 +8,8 @@
 - [VSC training](https://vsc.ac.at/research/vsc-research-center/vsc-school-seminar/)
 - [CSAMA](https://www.huber.embl.de/csama2020/)
 - [EBI Systems Biology](https://www.ebi.ac.uk/training/materials/systems-biology-large-datasets-biological-insight-materials/)
-
+- [CSAMA 2024](https://csama2024.bioconductor.eu/)
+  
 ## Resources and courses at UIBK
 - [Minor Digital Science](https://www.uibk.ac.at/disc/teaching/digital-science/index.html.en)
 - [Supplementary Programme Computer Science](https://www.uibk.ac.at/studium/angebot/es-informatik/index.html.en) (software engineering, machine learning, etc.)
