@@ -3,7 +3,7 @@
 ## Materials
 - [R programming course](https://github.com/FFinotello/Rcourse)
 - [R programming book](https://discdown.org/rprogramming/)
-- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/07-chap.html](https://www.huber.embl.de/msmb/)
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
 
 ## Courses
 - [VSC training](https://vsc.ac.at/research/vsc-research-center/vsc-school-seminar/)
